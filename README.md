@@ -55,7 +55,7 @@ You can login these creditials only.
 - Open the frontend URL in your browser.
 - Register or login as a user.
 - Use the dashboard to manage files and folders.
-- Admin user: `Admin@gmail.com` (password: `admin@123` or `password`)
+- Admin user: `Admin@gmail.com` (password: `admin@123`)
 
 ---
 
@@ -81,4 +81,5 @@ You can login these creditials only.
 
 ## License
 MIT
+
 
