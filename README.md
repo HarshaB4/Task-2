@@ -8,7 +8,6 @@ This project contains a backend (Node.js/Express/TypeScript) and a frontend (Rea
 - MongoDB (local or cloud instance)
 
 ---
-
 ## Backend Setup
 
 1. **Install dependencies**
@@ -32,7 +31,10 @@ This project contains a backend (Node.js/Express/TypeScript) and a frontend (Rea
    - The backend will run on `http://localhost:5000` (or as configured).
 
 ---
-
+4.** Login Credentials**
+**Email**:admin@gmail.com or Admin@gmail.com
+**password**:admin@123
+You can login these creditials only.
 ## Frontend Setup
 
 1. **Install dependencies**
@@ -79,3 +81,4 @@ This project contains a backend (Node.js/Express/TypeScript) and a frontend (Rea
 
 ## License
 MIT
+
